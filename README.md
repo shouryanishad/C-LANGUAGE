@@ -1,3 +1,3 @@
 ﻿# C-LANGUAGE
 
-simple prtogram using c language.
+simple program using c language.
